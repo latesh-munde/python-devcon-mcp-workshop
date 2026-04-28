@@ -38,7 +38,7 @@ class MCPClient:
 # -------------------------
 async def main():
 
-    # Connect to workshop server
+    # Connect to server
     workshop = MCPClient("http://localhost:3000/mcp", "workshop-client")
     print("Connected to workshop MCP server.")
 
