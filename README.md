@@ -37,6 +37,8 @@ devcon-workshop/
             │
     ---------------------
     │                   │
+Server MCP       APS MCP Server
+(port 3000)       (port 3001)
 ```
 
 ---
